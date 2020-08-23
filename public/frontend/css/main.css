@@ -1,0 +1,54 @@
+.shopping-mall{
+	bottom: 20px;
+	font-variant: small-caps;
+}
+.shopping-mall>h1{
+	font-family: Impact, Haettenschweiler,'Arial Narrow Bold', sans-serif;
+	font-size: 50px;
+	color: #FF6600;
+	letter-spacing: .3px;
+	text-shadow: 0 0 2px #000;
+	padding-bottom: 0px;
+	border-bottom: 1px dotted gray;
+	margin: 0px;
+}
+.shopping-mall>h5{
+	margin-top: 5px;
+	letter-spacing: .5px;
+}
+.container-fluid>header{
+	margin-bottom: 3px;
+}
+.carousel-item>img{
+	height: 300px;
+	margin-bottom: 2px;
+}
+.flex-column>a{
+	border-bottom: 1px dotted gray;
+} 
+
+.tt{
+	background-color:#007bff!important;
+}
+.tt>li{
+	list-style: none;
+	height: 30px;
+	color: white;
+}
+.tt>ul{
+	border: 1px solid black;
+}
+.user span{
+	margin:10px;
+	color: blue;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: #FF6600;
+}
+.user {
+	background: white;
+	margin: 10px 0;
+	width: auto;
+	height: 500px;
+}
